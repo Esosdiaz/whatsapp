@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.fondo{
+	background-image: url(../img/fondo.png);
+	width: 100%;
+	box-sizing: border-box;
+
+}
+.caja-gigante{
+	width: 85%;
+	height: auto;
+	background-color: #DDDEE0;
+	margin-top: 10vh;
+	padding: 3vh;
+}
+.lateral{
+	width: 35%;
+	padding: 10px;
+	background-color: white;
+}
+.menu-izq{
+	width: 100%;
+	height: auto;
+	border:1px solid #DDDEE0;
+	padding: 10px;
+}
+.menu-izq i{
+	margin-top: 15px;
+	padding: 5px;
+	color: #b5adad;
+}
+.input-buscar{
+	width: 100%;
+	height: auto;
+	border:1px solid #DDDEE0;
+	border-top: none;
+	padding: 10px;
+}
+.input-buscar input{
+	width: 100%;
+	padding: 10px;
+}
+.chat{
+	width: 100%;
+	height: auto;
+	border:1px solid #DDDEE0;
+	border-top: none;
+	padding: 10px;
+}
+.foto-chat{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.texto-usuario{
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.texto-usuario h5{
+	font-size: 15px;
+	font-weight: bold;
+}
+.texto-usuario p{
+	font-size: 13px;
+	color: #b5adad;
+}
+.hora{
+	font-size: 13px;
+	color: #b5adad;
+	padding-top: 15px;
+}
+.caja-chat{
+	
+}
